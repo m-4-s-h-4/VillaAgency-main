@@ -5,16 +5,16 @@ performance 48
 
 # What was suggested
 
-Avoid large layout shifts 7 elements found
-Enable text compression Potential savings of 594 KiB
-Eliminate render-blocking resources Potential savings of 510 ms
-Reduce unused CSS Potential savings of 399 KiB
-Serve images in next-gen formats Potential savings of 771 KiB
-Largest Contentful Paint element 2,040 ms
-Preload Largest Contentful Paint image Potential savings of 130 ms
-Reduce unused JavaScript Potential savings of 132 KiB
-Efficiently encode images Potential savings of 48 KiB
-Page prevented back/forward cache restoration 1 failure reason
+1. Avoid large layout shifts 7 elements found
+2. Enable text compression Potential savings of 594 KiB
+3. Eliminate render-blocking resources Potential savings of 510 ms
+4. Reduce unused CSS Potential savings of 399 KiB
+5. Serve images in next-gen formats Potential savings of 771 KiB
+6. Largest Contentful Paint element 2,040 ms
+7. Preload Largest Contentful Paint image Potential savings of 130 ms
+8. Reduce unused JavaScript Potential savings of 132 KiB
+9. Efficiently encode images Potential savings of 48 KiB
+10. Page prevented back/forward cache restoration 1 failure reason
 
 # What was done
 
