@@ -25,11 +25,12 @@ performance 48
 5. image: `imagemin` from `vite-plugin-imagemin`
    Converts images to WebP
 6. Preload Largest Contentful Paint image
-7. added `lazy loading` and `fetchpriority`
-8. fixed some errors in html such as spacing
-9. moved assets and vendor to `public`
-10. `defer` scripts
-11. `preconnect` and ```display=swap` to google fonts
+7. added `lazy loading` and `async` decoding
+8. added `fetchpriority`for LCP
+9. fixed some errors in html such as spacing; added `type=module`
+10. moved assets and vendor to `public`
+11. `defer` scripts
+12. `preconnect` and ```display=swap` to google fonts
 
 # After
 
